@@ -198,7 +198,7 @@ body{
 }
 
 .hero-img img{
-    width: 40%;
+    width: 35%;
     z-index: 2;
     border-radius: 50%;
 }
@@ -228,6 +228,10 @@ body{
 }
 .hero-content span{
     color: var(--primary-color);
+    font-size: larger;
+}
+.hero-content p{
+    font-size: xx-large;
 }
 
 .social-icon-list,
@@ -302,7 +306,7 @@ body{
 }
 
 .about-img img{
-    width:  80%;
+    width:  40%;
     border-radius: 50%
 }
 

@@ -91,3 +91,6 @@ modeChangeIcon.addEventListener("click", () => {
         document.body.classList.toggle('dark-theme');
     }
 })
+
+// Alert when live demo is clicked for the website
+document.getElementById("live-btn").addEventListener("click", function(){ alert("You are already here!"); });
